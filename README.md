@@ -12,3 +12,6 @@ Before I forget - applied for Awesome Inc. Bootcamp today, 5/5/22. :-)
 
 ## Python
 Picked up a 'teach yourself' Python book and surprised at how easily it's coming back.
+
+# I got into Bootcamp!!!
+Yikes. Now... there are a lot of significant decisions to make.
