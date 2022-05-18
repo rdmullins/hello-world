@@ -15,3 +15,6 @@ Picked up a 'teach yourself' Python book and surprised at how easily it's coming
 
 # Update
 Got accepted to bootcamp! Sent my acceptance email today.
+
+# Boot Camp Demo Day Spring 2022
+Went to watch Demo Day today. Eight very solid presentations, mostly using some combination of React and Django for the back-end. 
