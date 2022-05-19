@@ -18,3 +18,6 @@ Got accepted to bootcamp! Sent my acceptance email today.
 
 # Boot Camp Demo Day Spring 2022
 Went to watch Demo Day today. Eight very solid presentations, mostly using some combination of React and Django for the back-end. 
+
+# Evernote
+I re-installed Evernote and put the web clipper in my Brave setup. Really going to make an effort to use it throughout the bootcamp.
