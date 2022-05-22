@@ -21,3 +21,6 @@ Went to watch Demo Day today. Eight very solid presentations, mostly using some 
 
 # Evernote
 I re-installed Evernote and put the web clipper in my Brave setup. Really going to make an effort to use it throughout the bootcamp.
+
+# Harvard Python Course
+Gary sent a link to an open Harvard CS course that uses Python - going to work through it. I also signed up for a blog to chronicle the bootcamp process.
