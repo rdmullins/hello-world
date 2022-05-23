@@ -24,3 +24,6 @@ I re-installed Evernote and put the web clipper in my Brave setup. Really going 
 
 # Harvard Python Course
 Gary sent a link to an open Harvard CS course that uses Python - going to work through it. I also signed up for a blog to chronicle the bootcamp process.
+
+# Linux Book
+Started reading an Ubuntu manual today. Just to remember some things.
