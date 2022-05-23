@@ -27,3 +27,6 @@ Gary sent a link to an open Harvard CS course that uses Python - going to work t
 
 # Linux Book
 Started reading an Ubuntu manual today. Just to remember some things.
+
+# Slack to Evernote
+Spent some time today moving resources from the Intro to Web class slack channel into Evernote. May repeat for other channels while I have access to them.
