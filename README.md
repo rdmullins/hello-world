@@ -30,3 +30,6 @@ Started reading an Ubuntu manual today. Just to remember some things.
 
 # Slack to Evernote
 Spent some time today moving resources from the Intro to Web class slack channel into Evernote. May repeat for other channels while I have access to them.
+
+# Working on 100 Days of CSS
+The assignment today is kicking my butt (my whole container is animating, and not just the part of it that's supposed to) but, in general, it's a learning experience which is sort of the point. I'll keep at it.
