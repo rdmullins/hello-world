@@ -33,3 +33,6 @@ Spent some time today moving resources from the Intro to Web class slack channel
 
 # Working on 100 Days of CSS
 The assignment today is kicking my butt (my whole container is animating, and not just the part of it that's supposed to) but, in general, it's a learning experience which is sort of the point. I'll keep at it.
+
+# Continuing CSS
+Day 3 was pretty easy (three alternating buttons). Today's looks more difficult (formatted chart) but I haven't gotten to start it yet since we're camping. 
