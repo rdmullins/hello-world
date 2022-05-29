@@ -36,3 +36,6 @@ The assignment today is kicking my butt (my whole container is animating, and no
 
 # Continuing CSS
 Day 3 was pretty easy (three alternating buttons). Today's looks more difficult (formatted chart) but I haven't gotten to start it yet since we're camping. 
+
+# Still Camping
+Day six doesn't look bad at all, just a bio page. Might work on it this evening back at the camper.
