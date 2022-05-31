@@ -39,3 +39,6 @@ Day 3 was pretty easy (three alternating buttons). Today's looks more difficult 
 
 # Still Camping
 Day six doesn't look bad at all, just a bio page. Might work on it this evening back at the camper.
+
+# Back From Camping
+Haven't worked on CSS yet for today but will catch up tomorrow. 
