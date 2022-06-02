@@ -45,3 +45,6 @@ Haven't worked on CSS yet for today but will catch up tomorrow.
 
 # Missed a Day
 Dang it. My streak is broken, much as was the AC in the house last night which led me to pass out (heat stroke?) By 9:00.
+
+# Pre-workout
+started pre-workout today for bootcamp.
