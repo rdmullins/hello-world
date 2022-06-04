@@ -48,3 +48,6 @@ Dang it. My streak is broken, much as was the AC in the house last night which l
 
 # Pre-workout
 started pre-workout today for bootcamp.
+
+# Found a Cool Resource
+A free MIT class
