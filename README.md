@@ -51,3 +51,6 @@ started pre-workout today for bootcamp.
 
 # Found a Cool Resource
 A free MIT class
+
+# Consistency has Taken a Hit...
+Busy weekend. I suppose it's ok to have a gap here and there.
