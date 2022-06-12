@@ -54,3 +54,6 @@ A free MIT class
 
 # Consistency has Taken a Hit...
 Busy weekend. I suppose it's ok to have a gap here and there.
+
+# Commit Weirdness
+I don't appear to be getting 'credit' for making commits to the 50 in 50 repository that I forked. Might need to check into that.
