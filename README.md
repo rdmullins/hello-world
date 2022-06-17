@@ -57,3 +57,6 @@ Busy weekend. I suppose it's ok to have a gap here and there.
 
 # Commit Weirdness
 I don't appear to be getting 'credit' for making commits to the 50 in 50 repository that I forked. Might need to check into that.
+# New Blog
+Launched a new blog at hashnode. rdmullins.hashnode.dev 
+
