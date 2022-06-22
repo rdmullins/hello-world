@@ -1,0 +1,27 @@
+# 50 Projects in 50 Days
+## Udemy Course
+
+I just thought I'd make this file here so I can keep track of what I'm working on so as to have everything in one place.
+
+## Day 1: Expanding Cards
+(AKA Meet my Fur Kids)
+Project: https://50in50-meetmyfurkids.glitch.me/
+Blog: https://rdmullins.hashnode.dev/50-projects-in-50-days-day-1-meet-my-fur-kids
+
+## Day 2: Progress Steps
+Project: https://50in50-progsteps.glitch.me/
+Blog: https://rdmullins.hashnode.dev/50-projects-in-50-days-day-2-progress-steps
+
+## Day 3: Rotating Navigation
+(AKA Tilting Cat Tree)
+Project: https://5oin50-rotatingnav.glitch.me/
+Blog: https://rdmullins.hashnode.dev/50-projects-in-50-days-day-3-rotating-navigation-menu
+
+## Day 4: Expanding Search Bar
+Project: https://50in50-hiddensearch.glitch.me/
+Blog: https://rdmullins.hashnode.dev/50-projects-in-50-days-day-4-expanding-search-bar
+
+## Day 5: Blurry Loading Page
+(AKA Another Look at my Doggo)
+Project: https://50in50-blurryloading.glitch.me/
+Blog: https://rdmullins.hashnode.dev/50-projects-in-50-days-day-5-blurry-loading-page
