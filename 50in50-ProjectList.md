@@ -25,3 +25,8 @@ Blog: https://rdmullins.hashnode.dev/50-projects-in-50-days-day-4-expanding-sear
 (AKA Another Look at my Doggo)
 Project: https://50in50-blurryloading.glitch.me/
 Blog: https://rdmullins.hashnode.dev/50-projects-in-50-days-day-5-blurry-loading-page
+
+## Day 6: Scrolling Animation
+(Still More Dog Pics!)
+Project: https://50in50-scrollanimation.glitch.me/
+Blog: https://rdmullins.hashnode.dev/50-projects-in-50-days-day-6-scroll-animation
