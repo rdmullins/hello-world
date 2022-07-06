@@ -30,3 +30,10 @@ Blog: https://rdmullins.hashnode.dev/50-projects-in-50-days-day-5-blurry-loading
 (Still More Dog Pics!)
 Project: https://50in50-scrollanimation.glitch.me/
 Blog: https://rdmullins.hashnode.dev/50-projects-in-50-days-day-6-scroll-animation
+
+## Day 7: Split Landing Page
+Project: https://50in50-splitlandingpage.glitch.me/
+Blog: https://rdmullins.hashnode.dev/50-projects-in-50-days-day-7-split-landing-page
+
+## Day 8: Form Wave Animation
+Project: https://50in50-wavyformanimation.glitch.me/
