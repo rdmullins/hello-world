@@ -38,3 +38,7 @@ Blog: https://rdmullins.hashnode.dev/50-projects-in-50-days-day-7-split-landing-
 ## Day 8: Form Wave Animation
 Project: https://50in50-wavyformanimation.glitch.me/
 Blog: https://rdmullins.hashnode.dev/50-projects-in-50-days-day-8-wavy-form-animation
+
+## Day 9: Sound Board (Pet Sounds!)
+Project: https://50in50-soundboard.glitch.me
+Blog: https://rdmullins.hashnode.dev/50-projects-in-50-days-day-8-sound-board-pet-sounds
