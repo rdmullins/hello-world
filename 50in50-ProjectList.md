@@ -48,6 +48,6 @@ Project: https://50in50-dadjokes.glitch.me
 Blog: https://rdmullins.hashnode.dev/50-projects-in-50-days-day-10-dad-jokes
 
 ## Day 11: KeyCodes
-Project: https://50-in-50-keycodes.glitch.me
-Blog: https://rdmullins.hashnode.dev/50-projects-in-50-days-day-11-key-codes
+Project: https://50-in-50-key-codes.glitch.me
+Blog: https://rdmullins.hashnode.dev/50-projects-in-50-days-day-11-keycodes
 
