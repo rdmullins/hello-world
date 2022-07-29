@@ -36,7 +36,7 @@ Project: https://50in50-splitlandingpage.glitch.me/
 Blog: https://rdmullins.hashnode.dev/50-projects-in-50-days-day-7-split-landing-page
 
 ## Day 8: Form Wave Animation
-Project: https://50in50-wavyformanimation.glitch.me/
+Project: http://50in50-wavyformanimation.glitch.me/
 Blog: https://rdmullins.hashnode.dev/50-projects-in-50-days-day-8-wavy-form-animation
 
 ## Day 9: Sound Board (Pet Sounds!)
@@ -51,3 +51,14 @@ Blog: https://rdmullins.hashnode.dev/50-projects-in-50-days-day-10-dad-jokes
 Project: https://50in50-keycodes.glitch.me
 Blog: https://rdmullins.hashnode.dev/50-projects-in-50-days-day-11-keycodes
 
+## Day 12: FAQ Collapse
+Project: https://50in50-faqcollapse.glitch.me/
+Blog: https://rdmullins.hashnode.dev/50-projects-in-50-days-day-12-collapsing-faqs
+
+## Day 13: Random Choice Picker
+Project: https://50in50-randomchoicepicker.glitch.me/
+Blog: https://rdmullins.hashnode.dev/50-projects-in-50-days-day-13-random-choice-picker
+
+## Day 14: Animated Navigation
+Project: https://50in50-animatednavigation.glitch.me/
+Blog: https://rdmullins.hashnode.dev/50-projects-in-50-days-day-15-animated-navigation
